@@ -1,9 +1,9 @@
 # generator-ui-localization
 ## A repository for localization files for the Generator UI
 
-These are the language translation files for the new Generator-UI. It contains captions, titles, hints, etc. as strings.
+These are the language translation files for the new Generator-UI. It contains captions, titles, hints, etc. as strings. 
 
-For each language we have a seperate JSON-File. On the left side on each line is the internal description of that string and the right side contains the actual string:
+For each language we have a seperate JSON-File in the translations directory. On the left side on each line is the internal description of that string and the right side contains the actual string:
 
 ### Example: 
  ```
